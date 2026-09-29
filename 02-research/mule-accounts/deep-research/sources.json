@@ -1,0 +1,634 @@
+[
+  {
+    "id": "S01",
+    "country": "TH",
+    "title": "ธปท.: FAQ ภัยการเงิน",
+    "url": "https://www.bot.or.th/th/faqs/faqs-03.html",
+    "published_or_updated": null,
+    "event_period": "หลายมาตรการ 2567–2569 แยกวันที่ตามหัวข้อ",
+    "accessed": "2026-09-25",
+    "type": "official_guidance",
+    "access_depth": "full_relevant_sections",
+    "claim": "ยืนยันว่ามีช่องทางพิสูจน์ข้อเท็จจริง/บัญชีเพื่อยังชีพ และการใช้ CFR ข้ามธนาคารตั้งแต่ 1 ส.ค. 2567",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "หน้าเดียวรวมหลายยุค ไม่ใช้ทุกย่อหน้าเป็นสถานะปัจจุบัน; ไม่พิสูจน์เวลาให้บริการจริง",
+    "tags": [
+      "มาตรการ",
+      "ผลกระทบ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S02",
+    "country": "TH",
+    "title": "ประกาศ ธปท. 19/2568",
+    "url": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2568/ThaiPDF/25680154.pdf",
+    "published_or_updated": null,
+    "event_period": "มีผล 8 ส.ค. 2568 ตาม S03; ตรวจข้อ 4.2.1–4.2.4",
+    "accessed": "2026-09-25",
+    "type": "regulation",
+    "access_depth": "pdf_relevant_sections",
+    "claim": "มี KYC/การตรวจข้อเท็จจริง การป้องกันสวมรอย และการจำกัดความเสียหาย; ข้อจำกัดอุปกรณ์เป็นบัญชีผู้ใช้งาน Mobile Banking ไม่ใช่จำกัดจำนวนบัญชีเงินฝาก",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "วันในช่องวันที่คือวันมีผลซึ่ง S03 ยืนยัน ไม่ใช่วันลงนาม; ไม่ใช่ผลประเมินเชิงเหตุผล",
+    "tags": [
+      "H1",
+      "H5",
+      "มาตรการ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only",
+    "effective_date": "2025-08-08"
+  },
+  {
+    "id": "S03",
+    "country": "TH",
+    "title": "ธปท.: ความคืบหน้าการจัดการภัยทุจริตทางการเงิน",
+    "url": "https://www.bot.or.th/th/news-and-media/news/news-20250819.html",
+    "published_or_updated": "2025-08-19",
+    "event_period": "ประกาศและการดำเนินงาน ณ 19 ส.ค. 2568",
+    "accessed": "2026-09-25",
+    "type": "official_announcement",
+    "access_depth": "full_relevant_sections",
+    "claim": "ยืนยันมาตรฐาน 19/2568 มีผล 8 ส.ค. และการกำหนดวงเงินตามพฤติกรรมรายบุคคล รวมถึงแจ้งเงินออก",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "เป็นประกาศ/คำอธิบายมาตรการ ไม่ใช่การทดลองวัดผล CP",
+    "tags": [
+      "มาตรการ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S04",
+    "country": "TH",
+    "title": "ธปท.: ยกระดับคุมวงเงินโอนบัญชีเยาวชน",
+    "url": "https://www.bot.or.th/th/news-and-media/news/news-20260731-2.html",
+    "published_or_updated": "2026-07-31",
+    "event_period": "กำหนดทยอยเสร็จ ก.ย. 2569 ธนาคาร / ต.ค. 2569 e-Money",
+    "accessed": "2026-09-25",
+    "type": "official_announcement",
+    "access_depth": "full_relevant_sections",
+    "claim": "มาตรการวงเงินเริ่มต้นเยาวชนมีช่องทางขอปรับเพิ่มและแจ้งล่วงหน้า",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ณ 25 ก.ย. ยังไม่พ้นกำหนดทั้งหมด; ไม่มีผลประเมินหลังดำเนินการในแหล่งนี้",
+    "tags": [
+      "H1",
+      "มาตรการ",
+      "friction"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S05",
+    "country": "TH",
+    "title": "ประกาศ ธปท. 58/2568 สำหรับผู้ประกอบธุรกิจตามกฎหมายระบบการชำระเงิน",
+    "url": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2568/ThaiPDF/25680259.pdf",
+    "published_or_updated": null,
+    "event_period": "ราชกิจจาฯ 22 ธ.ค. 2568; มีผล 23 ธ.ค. 2568",
+    "accessed": "2026-09-25",
+    "type": "regulation",
+    "access_depth": "pdf_relevant_sections",
+    "claim": "มีมาตรฐานเฉพาะผู้ประกอบธุรกิจระบบการชำระเงินแล้ว; ไม่ควรนำเกณฑ์ธนาคารไปเหมารวม e-Money โดยไม่ดูขอบเขต",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "การตรวจนี้ไม่ใช่ compliance audit ของแต่ละราย; ไม่ยืนยันประสิทธิผล",
+    "tags": [
+      "มาตรการ",
+      "e-Money"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only",
+    "effective_date": "2025-12-23"
+  },
+  {
+    "id": "S06",
+    "country": "TH",
+    "title": "ธปท.: ยกระดับจัดการบัญชีม้า สร้างความมั่นใจใช้จ่ายดิจิทัล",
+    "url": "https://www.bot.or.th/th/research-and-publications/articles-and-publications/articles/prachachat-chayawadee-oct25.html",
+    "published_or_updated": null,
+    "event_period": "อธิบายการเริ่มปรับกระบวนการ 14 ก.ย. 2568; บทความช่วง ต.ค. 2568",
+    "accessed": "2026-09-25",
+    "type": "official_explanation",
+    "access_depth": "full_relevant_sections",
+    "claim": "ยอมรับผลกระทบต่อผู้สุจริต; ปรับปลดระงับ 4 ชั่วโมงถึง 1 วันตามรอบข้อมูล และชี้ว่าระงับธุรกรรมต่างจากอายัดบัญชี",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "เวลาเป็นแนวทางที่ประกาศ ไม่รับรองทุกเคสและไม่ใช่มัธยฐานที่วัดจริง",
+    "tags": [
+      "H6",
+      "friction"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S07",
+    "country": "TH",
+    "title": "กรมประชาสัมพันธ์: จากหางานกลายเป็นเปิดบัญชีม้า",
+    "url": "https://www.prd.go.th/th/content/category/detail/id/9/iid/249093",
+    "published_or_updated": null,
+    "event_period": "หน้าเผยแพร่ช่วง 2567; ไม่ยืนยันวันจากข้อความที่ตรวจ",
+    "accessed": "2026-09-25",
+    "type": "official_advisory",
+    "access_depth": "search_excerpt",
+    "claim": "เตือนการอ้างรับสมัครงานเพื่อให้เปิดบัญชีและเสนอให้ตรวจบริษัทผ่านช่องทางอิสระ",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "อ่านได้เป็นผลค้น; ใช้เพียงหลักฐานว่ามีคำเตือนรูปแบบนี้ ไม่เป็นกรณีที่พิสูจน์แล้ว",
+    "tags": [
+      "H3",
+      "H4",
+      "มาตรการ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "limited_partial_access"
+  },
+  {
+    "id": "S08",
+    "country": "TH",
+    "title": "MDES/AOC: ไม่ใช่มิจฉาชีพแต่ทำไมบัญชีถูกอายัด",
+    "url": "https://mdes.go.th/news/detail/11302",
+    "published_or_updated": null,
+    "event_period": "อ้างชุดข้อมูล 1 พ.ย. 2566–30 มิ.ย. 2569; ใช้เฉพาะคำแนะนำ ไม่ใช้ยอดนับ",
+    "accessed": "2026-09-25",
+    "type": "official_advisory",
+    "access_depth": "full_text",
+    "claim": "อธิบายว่าผู้รับเงินที่ไม่รู้ที่มาอาจถูกกระทบ และแนะนำติดต่อธนาคาร/AOC ตรวจสถานะ",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่เป็นผลสอบสวนรายบุคคล; ไม่เอายอดบัญชีต้องสงสัยเป็นอัตราบัญชีม้าเกิดใหม่",
+    "tags": [
+      "H6",
+      "friction"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S09",
+    "country": "TH",
+    "title": "วิทยานิพนธ์จุฬาฯ: แนวทางเพิ่มประสิทธิภาพการป้องกันการเปิดบัญชีม้าของเด็กและเยาวชน",
+    "url": "https://digital.car.chula.ac.th/chulaetd/12502/",
+    "published_or_updated": "2024",
+    "event_period": "ปีผลงาน 2024; วันเก็บข้อมูลไม่ระบุในบทคัดย่อ",
+    "accessed": "2026-09-25",
+    "type": "academic_primary",
+    "access_depth": "abstract_only",
+    "claim": "สัมภาษณ์ผู้เชี่ยวชาญ/เจ้าหน้าที่ 15 คน 4 กลุ่ม; เสนอปัจจัยความรู้ ครอบครัว และแรงจูงใจเศรษฐกิจ",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่ได้สัมภาษณ์ผู้เปิดบัญชีม้าตามกลุ่มตัวอย่างในบทคัดย่อ; ไม่ทราบรายละเอียดวิธีวิเคราะห์ฉบับเต็ม; ไม่พิสูจน์ผลคำเตือน",
+    "tags": [
+      "H2",
+      "H3",
+      "H4"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S10",
+    "country": "TH",
+    "title": "Thai PBS: เส้นทางบัญชีม้าคนไร้บ้าน",
+    "url": "https://www.thaipbs.or.th/news/content/356762",
+    "published_or_updated": "2025-09-21",
+    "event_period": "รายงานภาคสนาม 21 ก.ย. 2568; เวลาเหตุส่วนบุคคลไม่ครบ",
+    "accessed": "2026-09-25",
+    "type": "reported_case",
+    "access_depth": "full_relevant_sections",
+    "claim": "มีคำบอกเล่าปฏิเสธข้อเสนอเปิดบัญชีเพราะกลัวผลทางคดี",
+    "claim_status": "reported_not_independently_verified",
+    "limitations": "ผู้เล่าและการเลือกตัวอย่างไม่เป็นตัวแทน; ย่อหน้าสลับคำเรียกเพศ จึงรวมเป็นหนึ่งหน่วยรายงาน ไม่เพิ่มเป็นสองคน; ตามต้นทางมูลนิธิยังไม่พบเอกสารเดียวกัน",
+    "tags": [
+      "H2",
+      "H3",
+      "negative_case"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S11",
+    "country": "TH",
+    "title": "The Active: บัญชีม้ากับคนไร้บ้าน",
+    "url": "https://theactive.thaipbs.or.th/read/homeless-muleaccount",
+    "published_or_updated": "2025-03-20",
+    "event_period": "เหตุเริ่มช่วงโควิด-19; วันแน่ชัดไม่ระบุ; ผลตามมาถึงวันที่รายงาน",
+    "accessed": "2026-09-25",
+    "type": "reported_interview",
+    "access_depth": "full_relevant_sections",
+    "claim": "คำบอกเล่าสะท้อนทั้งความต้องการปัจจัยดำรงชีพ ความสัมพันธ์เชิงอำนาจ และผลต่อการเข้าถึงเงินยังชีพ",
+    "claim_status": "reported_not_independently_verified",
+    "limitations": "เหตุเปิดบัญชีเก่ากว่ากรอบหลัก ใช้เป็นบริบท; ไม่มีคำพิพากษาฉบับตรงเคสให้ตรวจ; ไม่ยกคำอธิบายกฎหมายในข่าวเป็นกฎทั่วไป",
+    "tags": [
+      "H2",
+      "H4",
+      "H6"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S12",
+    "country": "TH",
+    "title": "Thai PBS: จับผู้ต้องหาขบวนการบัญชีม้าแปลงเงินซื้อทอง",
+    "url": "https://www.thaipbs.or.th/news/content/356864",
+    "published_or_updated": "2025-09-23",
+    "event_period": "รายงานการจับกุม 23 ก.ย. 2568",
+    "accessed": "2026-09-25",
+    "type": "reported_investigation",
+    "access_depth": "full_relevant_sections",
+    "claim": "ตำรวจให้ข้อมูลว่าผู้เกี่ยวข้องถูกชวนเป็นงานและช่วยยืนยันใบหน้าทำธุรกรรมต่อเนื่อง",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "แหล่งอ้างตำรวจผ่านสื่อ; เป็นขั้นสอบสวน ไม่ใช่คำพิพากษา; ไม่ทราบจังหวะเปลี่ยนจากไม่รู้เป็นรู้",
+    "tags": [
+      "H3",
+      "H5"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S13",
+    "country": "UK",
+    "title": "Home Office/Ipsos: Lived experiences of money muling",
+    "url": "https://www.gov.uk/government/publications/lived-experiences-of-money-muling/lived-experiences-of-money-muling",
+    "published_or_updated": "2026-07-16",
+    "event_period": "แบบสำรวจเจาะจง ธ.ค. 2024–ม.ค. 2025 และ พ.ค. 2025; ใช้ผลสำรวจประชาชนปี 2024 ประกอบ",
+    "accessed": "2026-09-25",
+    "type": "mixed_methods_primary",
+    "access_depth": "methods_and_relevant_sections",
+    "claim": "สำรวจเจาะจง 208 คน สัมภาษณ์อดีตผู้เกี่ยวข้อง 9 คนซึ่งทั้งหมดไม่รู้ตัว และผู้เชี่ยวชาญ 11 คน; พบความไว้ใจ ความต้องการเงิน และอุปสรรคขอความช่วยเหลือ",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่เป็นตัวแทนประชากรหรือผู้ร่วมมือโดยเจตนา; คำแนะนำ safe pathways ยังไม่ใช่ผลทดลอง; ส่วน survey ปี 2024 ซ้ำกับ S14 ไม่ถืออิสระ",
+    "tags": [
+      "H2",
+      "H3",
+      "H4",
+      "H6"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S14",
+    "country": "UK",
+    "title": "Home Office: Public experiences, perceptions and understanding",
+    "url": "https://www.gov.uk/government/publications/uk-public-experiences-perceptions-and-understanding-of-money-muling/uk-public-experiences-perceptions-and-understanding-of-money-muling",
+    "published_or_updated": "2026-07-28",
+    "event_period": "อัปเดต 28 ก.ค. 2026; สำรวจ ก.พ. 2024 n=2114 และ มี.ค. 2024 n=2233",
+    "accessed": "2026-09-25",
+    "type": "survey_primary",
+    "access_depth": "methods_and_relevant_sections",
+    "claim": "แบบสำรวจแรก 97% ระบุไม่ยอมรับสถานการณ์สมมติ; อีกแบบสำรวจ 18% จำแนกสถานการณ์ผิดกฎหมายทั้งสามได้ครบ",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "สองตัวเลขคนละแบบสำรวจ ไม่ใช่ความสัมพันธ์รายคน; คำตอบสมมติไม่ใช่พฤติกรรมจริง; ไม่อนุมานอัตราไทย",
+    "tags": [
+      "H3",
+      "negative_case"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S15",
+    "country": "UK",
+    "title": "FCA: Money mules activity and cashing out findings",
+    "url": "https://www.fca.org.uk/publications/multi-firm-reviews/money-mules-activity-cashing-out-findings",
+    "published_or_updated": "2026-09-23",
+    "event_period": "ข้อมูลกิจกรรม/ปิดบริการ 2023–2025; 35 บริษัท; working group 22 บริษัท 140 คดี",
+    "accessed": "2026-09-25",
+    "type": "regulator_review",
+    "access_depth": "methods_and_tenure_sections",
+    "claim": "47.1% ของบัญชีในชุด account tenure ปี 2025 ถูกปิดภายในปีแรก; บัญชีเก่าก็ปรากฏในข้อมูล",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "วัดอายุถึงปิดบริการ ไม่ใช่ถึงเริ่มเป็นม้า; บัญชีและลูกค้ามีตัวหารต่างกัน; กลุ่มบริษัท/ประเทศต่างจากไทย",
+    "tags": [
+      "H1",
+      "negative_case"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S16",
+    "country": "UK",
+    "title": "FCA: Use of NFD and money mule detection tools",
+    "url": "https://www.fca.org.uk/publications/multi-firm-reviews/firms-use-national-fraud-database-money-mule-account-detection-tools",
+    "published_or_updated": "2025-01-23",
+    "event_period": "อัปเดต 3 ธ.ค. 2025; ทบทวนกรณี 13 บริษัท; ข้อมูลเสริม ม.ค. 2022–ก.ย. 2023",
+    "accessed": "2026-09-25",
+    "type": "regulator_review",
+    "access_depth": "full_relevant_sections",
+    "claim": "ตรวจพบการประเมินผู้สมัครที่มี flag เป็นรายกรณี แทนปฏิเสธอัตโนมัติ; การลงทะเบียน NFD มีเกณฑ์หลักฐาน",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "วิธีปฏิบัติที่พบ ไม่ใช่ RCT และไม่กำหนดกฎหมายไทย; ไม่ใช้จำนวนปิดบัญชีพิสูจน์ผลลดม้าใหม่",
+    "tags": [
+      "friction",
+      "มาตรการ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S17",
+    "country": "UK",
+    "title": "FCA: Detecting and preventing money mules",
+    "url": "https://www.fca.org.uk/publications/multi-firm-reviews/proceeds-fraud-detecting-preventing-money-mules",
+    "published_or_updated": "2023-10-19",
+    "event_period": "อัปเดต 3 ธ.ค. 2025; ทบทวนแนวปฏิบัติผู้ให้บริการ",
+    "accessed": "2026-09-25",
+    "type": "regulator_review",
+    "access_depth": "search_and_partial_text",
+    "claim": "การตรวจช่วงเปิดบัญชีและติดตามธุรกรรมต้องใช้ข้อมูล/บริบทเพื่อหลีกเลี่ยง false positives",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "หน้าอ่านเต็มตอบผิดพลาดบางครั้ง; ใช้ข้อความผลค้นที่ชัดและผลทบทวน ไม่อ้างขนาดผล",
+    "tags": [
+      "H1",
+      "H5",
+      "friction"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "limited_partial_access"
+  },
+  {
+    "id": "S18",
+    "country": "UK",
+    "title": "Home Office: Money mule and financial exploitation action plan",
+    "url": "https://www.gov.uk/government/publications/money-mule-action-plan/money-mule-and-financial-exploitation-action-plan-accessible",
+    "published_or_updated": "2024-03-01",
+    "event_period": "แผนปี 2024",
+    "accessed": "2026-09-25",
+    "type": "policy_plan",
+    "access_depth": "landing_and_relevant_sections",
+    "claim": "มีแนวทางร่วมระหว่างรัฐ ธนาคาร การช่วยผู้ถูกแสวงหาประโยชน์ และแพลตฟอร์ม",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "เป็นแผน ไม่ยืนยันว่าทุกกิจกรรมดำเนินแล้วหรือได้ผล; ไม่ใช่ช่องว่างที่ยังไม่มีใครคิด",
+    "tags": [
+      "H4",
+      "H6",
+      "platform"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S19",
+    "country": "SG",
+    "title": "SPF/MAS/IMDA/GovTech: Restricting facilities for scam mules",
+    "url": "https://www.police.gov.sg/Media-Hub/News/2025/09/20250917_restricting_access_to_facilities_for_scam_mules",
+    "published_or_updated": "2025-09-17",
+    "event_period": "ประกาศเริ่มระยะธนาคาร/โทรศัพท์ ต.ค. 2025",
+    "accessed": "2026-09-25",
+    "type": "official_announcement",
+    "access_depth": "scope_and_appeals_sections",
+    "claim": "จำกัดบริการตามความเสี่ยงโดยพิจารณาความต้องการพื้นฐาน มี SPF รับอุทธรณ์ และมุ่งผู้เคยเกี่ยวข้อง/เสี่ยงทำซ้ำ",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่ใช่มาตรการเปิดบัญชีครั้งแรกทั้งประชากร; ไม่อนุมานประสิทธิผลจากการประกาศ",
+    "tags": [
+      "H6",
+      "friction"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S20",
+    "country": "SG",
+    "title": "SPF: Annual Scam and Cybercrime Brief 2025",
+    "url": "https://www.police.gov.sg/-/media/SPF/Media-Room/Statistics/Annual-Scams-and-Cybercrime-Brief-2025/Annual-Scam-and-Cybercrime-Brief-2025.pdf",
+    "published_or_updated": null,
+    "event_period": "รายงานปี 2025; ข้อมูล FRF ณ 9 ก.พ. 2026 หน้า 10 และ 26",
+    "accessed": "2026-09-25",
+    "type": "administrative_primary",
+    "access_depth": "pdf_relevant_sections",
+    "claim": "ยืนยัน FRF เริ่ม 1 ต.ค. 2025; 550 money mules ถูกจำกัด ณ จุดตัดเวลา; มีการจัดการเนื้อหาออนไลน์ด้วย",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "550 เป็นจำนวนดำเนินการ ไม่ใช่จำนวนป้องกันได้; ห้ามบวกกับ 801 SIM mules เพราะอาจซ้ำ; ไม่มี counterfactual",
+    "tags": [
+      "H6",
+      "platform",
+      "มาตรการ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S21",
+    "country": "AU",
+    "title": "AUSTRAC: Combating exploitation of international students as money mules",
+    "url": "https://www.austrac.gov.au/industry-and-business/education-and-resources/publications-and-resources/combating-exploitation-international-students-money-mules",
+    "published_or_updated": "2026-03-30",
+    "event_period": "หน้าอัปเดต 30 มี.ค. 2026; คู่มือ PDF ต้นฉบับ มิ.ย. 2024",
+    "accessed": "2026-09-25",
+    "type": "official_guidance",
+    "access_depth": "landing_full_and_pdf_partial",
+    "claim": "คู่มือให้ผู้ให้บริการพิจารณาสัญญาณพฤติกรรมและการเงินหลายอย่างร่วมกัน และครอบคลุมการชักชวนออนไลน์/พบหน้า",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่ใช้สถานะนักศึกษาต่างชาติเป็นคำตัดสิน; ไม่มีการประเมินผลเชิงเหตุผลในหน้าที่ตรวจ; PDF อ่านไม่ต่อเนื่อง",
+    "tags": [
+      "H4",
+      "H5",
+      "มาตรการ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S22",
+    "country": "TH",
+    "title": "MAKE by KBank FAQ",
+    "url": "https://makebykbank.kbtg.tech/th/faq",
+    "published_or_updated": null,
+    "event_period": "สถานะหน้าผลิตภัณฑ์วันที่ค้น",
+    "accessed": "2026-09-25",
+    "type": "provider_documentation",
+    "access_depth": "search_excerpt",
+    "claim": "MAKE เป็นบัญชี K-eSavings ของกสิกรไทย",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ใช้เฉพาะจำแนกผลิตภัณฑ์ ไม่รับรองความเสี่ยงหรือความง่ายเทียบรายอื่น",
+    "tags": [
+      "classification"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "limited_partial_access"
+  },
+  {
+    "id": "S23",
+    "country": "TH",
+    "title": "Kept by krungsri FAQ",
+    "url": "https://www.keptbykrungsri.com/faq/kept-app01",
+    "published_or_updated": null,
+    "event_period": "สถานะหน้าผลิตภัณฑ์วันที่ค้น",
+    "accessed": "2026-09-25",
+    "type": "provider_documentation",
+    "access_depth": "search_excerpt",
+    "claim": "บัญชีใน Kept เป็นเงินฝากออมทรัพย์ภายใต้ธนาคารกรุงศรี",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ใช้จำแนกผลิตภัณฑ์เท่านั้น",
+    "tags": [
+      "classification"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "limited_partial_access"
+  },
+  {
+    "id": "S24",
+    "country": "TH",
+    "title": "LINE BK Savings Account",
+    "url": "https://www.linebk.com/th/savings-account/",
+    "published_or_updated": null,
+    "event_period": "หน้าผลิตภัณฑ์วันที่ค้น; ตรวจประกอบคำอธิบาย Powered by KBank ของผู้ให้บริการ",
+    "accessed": "2026-09-25",
+    "type": "provider_documentation",
+    "access_depth": "search_excerpt",
+    "claim": "บริการเงินฝากผ่าน LINE BK เกี่ยวข้องกับธนาคารกสิกรไทย ไม่เหมารวมกับบริการสินเชื่อหรือ e-Money",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่รวมหน้า Wallet ทั้งหมดเป็นบัญชีเงินฝาก; ไม่รับรองรายละเอียดสัญญาทุกบริการ",
+    "tags": [
+      "classification"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "limited_partial_access"
+  },
+  {
+    "id": "S25",
+    "country": "TH",
+    "title": "ธปท.: FAQ Virtual Bank",
+    "url": "https://www.bot.or.th/th/faqs/faqs-04.html",
+    "published_or_updated": null,
+    "event_period": "ข้อมูลนิยามและกระบวนการอนุญาตในหน้าที่ค้น",
+    "accessed": "2026-09-25",
+    "type": "official_guidance",
+    "access_depth": "full_relevant_sections",
+    "claim": "Virtual Bank เป็นประเภทธนาคารพาณิชย์ไร้สาขา แยกจากแอปเงินฝากธนาคารเดิม",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "กำหนดคาดการณ์เปิดในหน้า FAQ ไม่ใช้ยืนยันว่าแต่ละรายเปิดจริง ณ วันที่ค้น",
+    "tags": [
+      "classification",
+      "H1"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S26",
+    "country": "TH",
+    "title": "พ.ร.ก. อาชญากรรมทางเทคโนโลยี 2566 สำเนาราชกิจจาฯ ที่มหิดล",
+    "url": "https://stang.sc.mahidol.ac.th/pdf/itlaw/ratchakitcha_25660316.pdf",
+    "published_or_updated": "2023-03-16",
+    "event_period": "ฉบับเดิม; ตรวจมาตรา 9–10 ร่วม S27 และคำอธิบายปัจจุบัน S01",
+    "accessed": "2026-09-25",
+    "type": "statutory_primary_copy",
+    "access_depth": "pdf_sections9_10",
+    "claim": "มาตรา 9 มีองค์ประกอบรู้หรือควรรู้และวัตถุประสงค์; มาตรา 10 ครอบคลุมการจัดหา/โฆษณาบัญชีเพื่อกระทำผิด",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่ตีความว่าการให้ผู้อื่นเกี่ยวข้องกับบัญชีทุกกรณีเป็นความผิด; สำเนาไม่ใช่ฉบับรวมกฎหมายทั้งหมด",
+    "tags": [
+      "legal",
+      "H3"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S27",
+    "country": "TH",
+    "title": "พ.ร.ก. อาชญากรรมทางเทคโนโลยี ฉบับที่ 2 พ.ศ. 2568",
+    "url": "https://ratchakitcha.soc.go.th/documents/67320.pdf",
+    "published_or_updated": "2025-04-12",
+    "event_period": "ประกาศ 12 เม.ย. มีผล 13 เม.ย. 2568",
+    "accessed": "2026-09-25",
+    "type": "statutory_primary",
+    "access_depth": "pdf_relevant_sections",
+    "claim": "แก้กรอบหน้าที่และการร่วมรับผิดชอบของหน่วยงาน/ผู้ให้บริการ ไม่ใช่เฉพาะโทษเจ้าของบัญชี",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ใช้วางแผนที่มาตรการ ไม่ใช่ความเห็นทางกฎหมายรายคดี; ไม่อ้างมีสิทธิยกเว้นโทษเมื่อแจ้งเอง",
+    "tags": [
+      "legal",
+      "มาตรการ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S28",
+    "country": "TH",
+    "title": "คำพิพากษาศาลฎีกา 3957/2566 สำเนาเผยแพร่โดย ปปง.",
+    "url": "https://ses8.amlo.go.th/uploads/tiny/Supreme%20Court%20Judgment/3957_2566.PDF",
+    "published_or_updated": "2023",
+    "event_period": "เหตุและคำให้การก่อนปี 2566; ตรวจสรุปหน้า 1 และส่วนคำให้การ",
+    "accessed": "2026-09-25",
+    "type": "judgment_primary_copy",
+    "access_depth": "pdf_relevant_sections",
+    "claim": "ศาลพิจารณาพยานหลักฐานเรื่องการรับรู้และการรับโอน; บัญชีเดียวอาจเกี่ยวหลายคดีคนละผู้เสียหาย",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ใช้เป็นบริบทเรื่องระดับหลักฐาน/การนับ ไม่ใช้พิสูจน์เจตนาของผู้โพสต์ปัจจุบันหรือทำนายโทษ",
+    "tags": [
+      "H3",
+      "legal",
+      "negative_case"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S29",
+    "country": "TH",
+    "title": "KKP Advice Center: บัญชีม้าคืออะไรและวิธีรับมือ",
+    "url": "https://advicecenter.kkpfg.com/th/money-matter/what-is-mule-account-and-how-to-avoid?target=L",
+    "published_or_updated": null,
+    "event_period": "หน้าคำแนะนำวันที่ค้น",
+    "accessed": "2026-09-25",
+    "type": "provider_advisory",
+    "access_depth": "full_relevant_sections",
+    "claim": "มีคำแนะนำรวบรวมหลักฐานและติดต่อธนาคาร/ตำรวจเมื่อถูกหลอกแล้ว",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่รับรองนิยามสีหรือกฎหมายทุกส่วนของบทความ; ใช้เพียงยืนยันว่ามีช่องทางคำแนะนำอยู่แล้ว",
+    "tags": [
+      "H6",
+      "มาตรการ"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "source_statement_only"
+  },
+  {
+    "id": "S30",
+    "country": "TH",
+    "title": "NITMX API Hub: CFR",
+    "url": "https://apihub.itmx.co.th/",
+    "published_or_updated": null,
+    "event_period": "ผลค้นวันที่ 25 ก.ย. 2569",
+    "accessed": "2026-09-25",
+    "type": "operator_description",
+    "access_depth": "search_excerpt_empty_open",
+    "claim": "ผลค้นระบุบริการ CFR สำหรับธนาคารสมาชิก; หน้าเปิดไม่คืนเนื้อหา",
+    "claim_status": "verified_as_source_statement",
+    "limitations": "ไม่ใช้ยืนยัน schema API หรือการรองรับ velocity query; ใช้ S01 สำหรับการใช้งานข้ามธนาคาร",
+    "tags": [
+      "dependency"
+    ],
+    "confidence_scope": "Confidence applies to what the source states, not causal effectiveness or legal guilt.",
+    "confidence": "limited_partial_access"
+  },
+  {
+    "id": "S31",
+    "country": "TH",
+    "title": "NIDA: การศึกษาประสิทธิผลของการเพิ่มโทษทางกฎหมายต่อการแก้ไขปัญหาการรับจ้างเปิดบัญชีม้าในสังคมไทย: กรณีศึกษาธนาคารซีไอเอ็มบีไทย สาขาอุดรธานี (ในเล่มผลงาน รศ.9000)",
+    "url": "https://gspa.nida.ac.th/th/wp-content/uploads/2024/08/เล่มการนำเสนอผลงานวิชา-รศ9000-ภาคพิเศษ-จังหวัดอุดรธานี-รุ่นที่-29.pdf",
+    "published_or_updated": null,
+    "event_period": "กำหนดวิจัย ก.พ.–ก.ค. 2567; เก็บภาคสนามตามแผน พ.ค.–มิ.ย. 2567; บางเหตุย้อนหลังหลายปี",
+    "accessed": "2026-09-25",
+    "type": "academic_case_study",
+    "access_depth": "pdf_text_methods_results; screenshot_table_failed",
+    "claim": "ส่วนวิธีระบุสี่กลุ่มรวม 26 คน (8/5/5/8); รายงานการรับรู้โทษและแรงจูงใจ รวมทั้งผู้มีความรู้กฎหมายบางส่วน; ใช้เป็นข้อจำกัดของสมมติฐานให้ความรู้อย่างเดียว",
+    "claim_status": "verified_as_reported_methods_and_findings",
+    "confidence": "จำกัดถึงกลางต่อคำบอกเล่าในงานเฉพาะพื้นที่; ไม่ใช่ผลเชิงเหตุผล",
+    "confidence_scope": "ไม่ยืนยันตัวผู้ให้ข้อมูลหรือความผิด และไม่วัดการลดม้าใหม่",
+    "limitations": "เล่มรวมผลงานการศึกษา ไม่ยืนยัน peer review; ภาษาวิธีบางส่วนเป็นแผนอนาคต; ตารางผู้เคยรับจ้างรวมคนที่กล่าวถึงญาติ/ยังไม่เปิด จึงไม่ถือว่า 8 คนเป็นผู้รับจ้างที่ยืนยันแล้ว; OCR ตารางคลุมเครือและ screenshot ไม่สำเร็จ; ไม่ใช้ข้ออ้างกฎหมาย/ต่างประเทศในบททบทวนเป็นหลักฐานปัจจุบัน",
+    "tags": [
+      "H2",
+      "H3",
+      "H4",
+      "negative_case"
+    ]
+  }
+]

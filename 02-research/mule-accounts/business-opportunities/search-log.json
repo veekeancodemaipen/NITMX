@@ -1,0 +1,82 @@
+[
+  {
+    "id": "B01",
+    "queries": [
+      "site.bot.or.th payment data indicators e-money service providers 2025 2026 number",
+      "site.bot.or.th รายชื่อ ผู้ประกอบธุรกิจ e-Money 2569 ธนาคาร",
+      "site.flagright.com case management pricing",
+      "site.tookitaki.com fraud case management money mule customer investigation"
+    ],
+    "date": "2026-09-25",
+    "sort": "search relevance; no custom date filter",
+    "selection": "primary official/regulator/vendor/corporate pages; no ads, no outreach"
+  },
+  {
+    "id": "B02",
+    "queries": [
+      "site.etda.or.th รายชื่อ ผู้ประกอบธุรกิจ บริการแพลตฟอร์มดิจิทัล หางาน 2569",
+      "site.seek.com scam job ads verification employer trust safety AI 2025",
+      "site.checkstep.com pricing text moderation",
+      "site.sumsub.com pricing user verification transaction monitoring"
+    ],
+    "date": "2026-09-25",
+    "sort": "search relevance; no custom date filter",
+    "selection": "primary official/regulator/vendor/corporate pages; no ads, no outreach"
+  },
+  {
+    "id": "B03",
+    "queries": [
+      "site.mas.gov.sg financial institutions directory major payment institution account issuance service e-money issuance",
+      "site.bnm.gov.my e-money issuers list 2026",
+      "site.bnm.gov.my National Fraud Portal mule accounts 2024 2025",
+      "site.zendesk.com pricing suite professional per agent annually"
+    ],
+    "date": "2026-09-25",
+    "sort": "search relevance; no custom date filter",
+    "selection": "primary official/regulator/vendor/corporate pages; no ads, no outreach"
+  },
+  {
+    "id": "B04",
+    "queries": [
+      "site.jobthai.com about Thinknet",
+      "site.jobmyway.com เกี่ยวกับเรา",
+      "site.daywork.co บริษัท",
+      "site.getlinks.com Thailand about us"
+    ],
+    "date": "2026-09-25",
+    "sort": "search relevance; no custom date filter",
+    "selection": "primary official/regulator/vendor/corporate pages; no ads, no outreach"
+  },
+  {
+    "id": "B05",
+    "queries": [
+      "ScamRanger banks customer scam intervention platform",
+      "site.biocatch.com mule account detection scam intervention",
+      "site.checkstep.com \"pricing\""
+    ],
+    "date": "2026-09-25",
+    "sort": "search relevance; no custom date filter",
+    "selection": "primary official/regulator/vendor/corporate pages; no ads, no outreach"
+  },
+  {
+    "id": "B06",
+    "queries": [
+      "site.workventure.com \"about\" Thailand",
+      "site.jobtopgun.com \"เกี่ยวกับ\"",
+      "site.jobbkk.com \"เกี่ยวกับ\""
+    ],
+    "date": "2026-09-25",
+    "sort": "search relevance; no custom date filter",
+    "selection": "primary official/regulator/vendor/corporate pages; no ads, no outreach"
+  },
+  {
+    "id": "B07",
+    "queries": [
+      "site.seek.com \"Jobsdb\" \"Jobstreet\" \"SEEK\"",
+      "site.fastwork.co \"เกี่ยวกับ\"",
+      "site.bnm.gov.my \"Non-bank E-Money Issuers\""
+    ],
+    "date": "2026-09-25",
+    "selection": "group deduplication, platform existence, MY registry; exclude third-party/reddit results"
+  }
+]
