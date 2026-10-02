@@ -24,10 +24,10 @@
 ├── crypto-mule-accounts/      หัวข้อ A  บัญชีม้าคริปโต + CFR Pro Max       (ล่าสุด)
 ├── onchain-data-infra/        หัวข้อ B  infra เชื่อมข้อมูลออนเชน           (ล่าสุด)
 └── mule-accounts/             หัวข้อ C  บัญชีม้าธนาคาร (ฐานงานเดิม, พักไว้)
-03-demo-clip/                  คลิปเดโมเว็บต้นแบบ ทางเชื่อม พร้อมเพลงประกอบ
+03-demo-clip/                  คลิปเดโม ทันเงิน (THAN NGERN) 39 วินาที พร้อมคำบรรยายและเพลงประกอบ
 ```
 
-**คลิปเดโม:** [`03-demo-clip/tangchuem-demo.mp4`](03-demo-clip/tangchuem-demo.mp4) (2:08) พาชมเว็บต้นแบบ [itmx-prototype-demo](https://github.com/FreezingH2O/itmx-prototype-demo) พร้อมคำบรรยายไทย/อังกฤษและเพลงประกอบ · รายละเอียดใน [03-demo-clip/README.md](03-demo-clip/README.md)
+**คลิปเดโม:** [`03-demo-clip/final_demo.mp4`](03-demo-clip/final_demo.mp4) (0:39) คลิปเดโม ทันเงิน (THAN NGERN) สำหรับกรรมการ มีคำบรรยายไทย/อังกฤษ เพลงประกอบ SRT และ EDL ดูรายละเอียดใน [03-demo-clip/README.md](03-demo-clip/README.md)
 
 ---
 

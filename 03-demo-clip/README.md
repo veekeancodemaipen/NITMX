@@ -1,52 +1,51 @@
-# คลิปเดโมเว็บ ทางเชื่อม (Bank × Crypto Risk Graph)
+# คลิปเดโม ทันเงิน (THAN NGERN)
 
 ![poster](poster.jpg)
 
-**ไฟล์:** [`tangchuem-demo.mp4`](tangchuem-demo.mp4) · 1920×1080 · 30fps · H.264 + AAC · ยาว 2:08 · ~12 MB
+**วิดีโอ:** [`final_demo.mp4`](final_demo.mp4) · 1920×1080 · 30fps · H.264 + AAC · ยาว 39.3 วินาที · ~14 MB
+**ข้อความหลัก:** *Stop the mule money — not the innocent merchant.* / หยุดเงินม้า ไม่ใช่หยุดร้านค้าบริสุทธิ์
+**ผู้ชม:** กรรมการ NITMX Fintech Bootcamp 2026
 
-คลิปพาชมเว็บต้นแบบจาก [FreezingH2O/itmx-prototype-demo](https://github.com/FreezingH2O/itmx-prototype-demo) (commit `47ef53f`) ที่รันในเครื่อง
-มีคำบรรยายสองภาษา (ไทยเป็นหลัก อังกฤษเป็นบรรทัดรอง) เคอร์เซอร์จำลอง และดนตรีประกอบพร้อมเสียงเอฟเฟกต์
+| ไฟล์ | คืออะไร |
+|---|---|
+| [`final_demo.mp4`](final_demo.mp4) | คลิปตัดต่อเสร็จแล้ว มีคำบรรยายไทย/อังกฤษฝังในภาพ ดนตรีประกอบ และเสียงคลิก |
+| [`captions_en.srt`](captions_en.srt) · [`captions_th.srt`](captions_th.srt) | ไฟล์คำบรรยายแยก (เวลาตรงกับคลิป) |
+| [`EDL.md`](EDL.md) | edit decision list: ช่วงเวลาในคลิปแต่ละช่วงมาจากเวลาไหนของไฟล์ต้นฉบับ พร้อมพิกัด crop/zoom |
+| [`source_capture.mp4`](source_capture.mp4) | ไฟล์อัดหน้าจอต้นฉบับ (2940×1600) ที่ EDL อ้างถึง |
 
 ## ลำดับฉาก
 
-| เวลา | ฉาก | ประเด็น |
+| เวลา | ฉาก | คำบรรยาย (EN / TH) |
 |---|---|---|
-| 0:00 | Title card | ทางเชื่อม · Bank × Crypto Risk Graph |
-| 0:05 | Landing page | เชื่อมหลักฐาน → หนึ่งเคส สามมุมมองของเงิน → เคสจำลอง 4 แบบ |
-| 0:28 | Overview | เปิดเดโม รีสตาร์ตเคส `merchant_300` แล้วกด Play (ความเร็ว 60×) |
-| 1:00 | Our Engine | กราฟเส้นทางเงิน Bank → Exchange → Chain, คะแนนพร้อมเหตุผล, บริบทปกติ, ข้อมูลที่ขาด |
-| 1:15 | Institutions | เจ้าหน้าที่กด Hold withdrawal ที่ Exchange และ Restrict ฿300 only ที่ Bank B |
-| 1:32 | Merchant | ร้านค้าถูกพักแค่ ฿300 ยังใช้ ฿10,000 ได้ และกดส่งหลักฐานการขาย |
-| 1:50 | Experiment Results | พร้อมต่อโมเดลจากการทดลอง (ยังไม่มีผล) |
-| 1:58 | Overview → Outro | Link · Trace · Explain · ข้อมูลจำลองทั้งหมด |
+| 0:00 | Landing hero → ซูมเข้า diagram | Scam money moves from bank to crypto in minutes. / เงินจากมิจฉาชีพไหลจากธนาคารสู่คริปโตในไม่กี่นาที |
+| 0:03 | การ์ด "The ฿300 merchant payment" | Banks see baht. Exchanges see crypto. Nobody sees the whole path. |
+| 0:05.5 | Bank A transaction feed (เร่ง 3×) | A victim's ฿50,000 is split across mule accounts within minutes. |
+| 0:08.5 | Our Engine: CASE-0001 → กราฟ → คะแนน 0.85 + เหตุผล | ทันเงิน links bank, exchange and chain into one explainable case. |
+| 0:15 | Bank B: คลิก Restrict ฿300 only → Held ฿300 | The officer holds only the suspicious ฿300, not the whole account. |
+| 0:19.5 | Merchant: พัก ฿300 / ใช้ได้ ฿10,000 | The shop keeps ฿10,000 to keep trading. |
+| 0:22.5 | Merchant: ส่งหลักฐานแล้ว → Officer review | The shop sends evidence from its banking app. |
+| 0:25.5 | Officer console: คลิก Release this hold | A bank officer reviews and decides. Humans stay in control. |
+| 0:28.5 | Merchant: ปลดการพักยอดแล้ว ใช้ได้ ฿10,300 | Released. The full ฿10,300 is usable again. |
+| 0:31.5 | Overview (ถอยกล้องออก) | Every party sees one shared, explainable case. |
+| 0:34.3 | End card: โลโก้ทันเงิน + tagline | Stop the mule money — not the innocent merchant. |
 
-## เพลงและเสียง
+ตัวเลขในคลิปมีแค่ตัวเลขที่ปรากฏบนหน้าจอเว็บ (฿50,000, ฿16,000, ฿300, ฿10,000, ฿10,300, 0.85, CASE-0001) คลิปไม่ได้อ้างว่าหยุดการถอนคริปโตได้ และข้อมูลทั้งหมดเป็นข้อมูลจำลอง
 
-ดนตรีและเสียงเอฟเฟกต์ทั้งหมดสังเคราะห์ขึ้นใหม่ด้วยโค้ด (`scripts/music.py`) ไม่ได้ใช้เพลงหรือแซมเปิลของใคร จึงไม่มีปัญหาลิขสิทธิ์
+## ที่มาของภาพและเสียง
 
-- เพลง: 104 BPM คอร์ด Am–F–C–G มี pad, arpeggio, เบส และกลอง ช่วง intro มีแค่ pad กลองเข้าตอนกด Play แล้วลดลงช่วง outro
-- เสียงเอฟเฟกต์: whoosh ตอนเปลี่ยนฉาก, click ตอนคลิก, ping ตอนเจ้าหน้าที่ตัดสินใจ, chime ตอน title/play และ riser + impact ตอน outro
-- เสียงเอฟเฟกต์ตรงกับภาพ เพราะสคริปต์บันทึกจะเก็บเวลาของแต่ละ cue ไว้ใน `timeline.json`
+- **ภาพ:** อัดจากเว็บต้นแบบ [FreezingH2O/itmx-prototype-demo](https://github.com/FreezingH2O/itmx-prototype-demo) (commit `47ef53f`) ที่รันในเครื่อง ตอนอัดใช้ชื่อและโลโก้ทันเงินแทนชื่อเดิม "ทางเชื่อม" ในเว็บ (สลับในเบราว์เซอร์ขณะอัด ไม่ได้แก้โค้ดเว็บ) โลโก้อยู่ใน [`assets/`](assets/)
+- **คำบรรยาย:** ฟอนต์ IBM Plex Sans Thai บนแถบสี navy #0A2232 80% มีแถบสี #4A9FF5 ด้านซ้าย
+- **เสียง:** ดนตรีบรรเลง ~100 BPM สร้างด้วยโค้ดทั้งหมด (`scripts/music.py`) ไม่มีปัญหาลิขสิทธิ์ ค่อย ๆ build ขึ้นจนถึง end card และจังหวะลงตรงกับการตัดเข้า end card ส่วนเสียงคลิกเบา ๆ ตรงกับการกดปุ่มในภาพ ไม่มีเสียงพากย์
 
 ## สร้างคลิปใหม่
 
-ต้องมี Python 3.11, Node 22, ffmpeg และ Chromium
+ต้องมี Python 3.11 (Pillow, numpy, scipy), Node 22 (`playwright-core`), ffmpeg และ Chromium และต้องรันเว็บต้นแบบไว้ที่ `127.0.0.1:5173` (API ที่ `:8000`) วางไฟล์ใน `assets/` ไว้ข้างสคริปต์ และวางฟอนต์ `@fontsource/ibm-plex-sans-thai` ไว้ใน `fonts/`
 
 ```bash
-# 1) รันเว็บต้นแบบ (ใน itmx-prototype-demo)
-pip install -r requirements.txt && uvicorn src.api.app:app --port 8000 &
-cd demo/web && npm ci && npx vite --port 5173 --host 127.0.0.1 &
-
-# 2) อัดภาพ (CDP screencast → frames/ + timeline.json)
-npm i playwright-core
-node scripts/record.mjs          # แก้ executablePath ให้ตรงกับ Chromium ในเครื่อง
-
-# 3) ต่อเฟรมเป็นวิดีโอ (สร้าง concat.txt จาก timeline.json ก่อน: แต่ละเฟรมใช้ duration = เวลาเฟรมถัดไป - เวลาเฟรมนี้)
-ffmpeg -f concat -safe 0 -i concat.txt -vf "fps=30,format=yuv420p" -c:v libx264 -crf 18 silent.mp4
-
-# 4) สร้างเพลงจาก timeline.json แล้วรวมกับภาพ
-pip install numpy scipy && python3 scripts/music.py
-ffmpeg -i silent.mp4 -i soundtrack.wav -c:v copy -c:a aac -b:a 192k -shortest -movflags +faststart tangchuem-demo.mp4
+node scripts/capture.mjs          # อัดต้นฉบับ → src_frames/ + capture.json (marks, clicks)
+python3 scripts/edit.py plan      # เตรียมข้อความคำบรรยาย
+node scripts/render_text.mjs      # เรนเดอร์คำบรรยาย + end card ด้วย Chromium (ฟอนต์ Plex Thai)
+python3 scripts/edit.py render    # ตัดต่อ → video_only.mp4, captions_*.srt, edl.md, out_cues.json
+python3 scripts/music.py          # ดนตรี + เสียงคลิก → soundtrack.wav
+ffmpeg -i video_only.mp4 -i soundtrack.wav -c:v copy -c:a aac -b:a 192k -shortest -movflags +faststart final_demo.mp4
 ```
-
-> ข้อมูลในคลิปทั้งหมดเป็นข้อมูลจำลองจากเว็บต้นแบบ (synthetic) ไม่มีข้อมูลธนาคารหรือบล็อกเชนจริง
